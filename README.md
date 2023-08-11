@@ -12,7 +12,7 @@ Placeholder
 ## Building
 ```bash
 git clone https://github.com/krypciak/cc-livesplit-one
-cd cc-rouge
+cd cc-livesplit-one
 npm install
 npm run start
 # this should return no errors or very few
