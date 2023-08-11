@@ -1,6 +1,5 @@
 # CrossCode LiveSplit One server
-[LiveSplit One](https://one.livesplit.org) is a web version of [LiveSplit](https://livesplit.org)  
-Unlike LiveSplit, it is multiplatform  
+[LiveSplit One](https://one.livesplit.org) is a multiplatform web version of [LiveSplit](https://livesplit.org)  
 
 ![Realeses](https://github.com/CCDirectLink/organization/blob/master/assets/badges/releases%402x.png)  
 Placeholder
