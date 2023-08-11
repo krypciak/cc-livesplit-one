@@ -1,4 +1,4 @@
 package-lock.json
 plugin.js
-dist
 node_modules
+*.ccmod
