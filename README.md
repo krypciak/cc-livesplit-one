@@ -1,3 +1,7 @@
+# ARCHIVED, this feature was merged into [CCTimer](https://github.com/CCDirectLink/CCTimer)
+This code remains here so people can look how LiveSplit One servers are implemented   
+<br>
+
 # CrossCode LiveSplit One server
 [LiveSplit One](https://one.livesplit.org) is a multiplatform web version of [LiveSplit](https://livesplit.org)  
 <br>
