@@ -3,7 +3,8 @@
 <br>
 
 ![Realeses](https://github.com/CCDirectLink/organization/blob/master/assets/badges/releases%402x.png)  
-[1.0.0 (latest)](https://github.com/krypciak/cc-livesplit-one/releases/tag/1.0.0)
+[1.0.1 (latest)](https://github.com/krypciak/cc-livesplit-one/releases/tag/1.0.1)
+[1.0.0](https://github.com/krypciak/cc-livesplit-one/releases/tag/1.0.0)
 
 ## Dependencies
 1. [timer](https://github.com/CCDirectLink/CCTimer)
