@@ -1,6 +1,6 @@
 {
     "id": "cc-livesplit-one",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "LiveSplit One server",
     "description": "Translated CCTimer events to LiveSplit One",
     "icons": {
